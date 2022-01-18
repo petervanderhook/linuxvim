@@ -2,9 +2,9 @@ Delete block with matching bracket
 
 In the following code, delete all blocks with (and including) brackets.
 
-XXX ( XXX ) XXX ( XXX ) XXX ( XXX ) XXX
+XXX XXX XXX XXX
 
-
+I used d* to delete the block
 
 Hints
 
