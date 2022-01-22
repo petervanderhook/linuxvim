@@ -3,6 +3,13 @@
 # edit the starter code so that it looks like the finished code.
 # Find 4 unique vim key combinations (where you use more than one key in normal mode) to make these edits.
 
+# My 4 VIM shortcuts that I used to edit this file.
+# 'dd' - Automatically deletes the line
+# 'd*' - Automatically deletes the bracket block
+# 'xG' - (x being the line number) Automatically jumps cursor to start of line number
+# 'O' - Makes a new blank line above cursor's current line, useful for indentation.
+
+
 alias ls="ls -aF --color=auto --group-directories-first"
 alias cd="cd $(find -type d | fzf)"
 
